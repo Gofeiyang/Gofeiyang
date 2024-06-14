@@ -15,7 +15,7 @@ I'm a software engineer with a passion for developing innovative programs that e
 
 - **Languages**: Python, Java, C/C++, Verilog, SQL, Tcl, TypeScript, PHP, MATLAB, CUDA
 - **Tools & Frameworks**: Linux, Git, GDB, PyCharm, PyTorch, AWS, React, Django, Docker, Valgrind, Gradle, Maven
-- **Areas of Expertise**: Software Engineering, FPGA Design, Data Processing, AI
+- **Areas of Expertise**: Software Engineering, Computer Architecture, FPGA Design, Data Processing, AI
 
 ## Contact
 
