@@ -6,7 +6,7 @@ I'm a software engineer with a passion for developing innovative programs that e
 
 - 💼 Currently seeking for job opportunities. I used to work as a software architecture engineer(Intern) at Lattice semiconductor improving routing algorithm for EDA tools.
 - 📚 Recently graduated from Duke University with a Master's degree in Electrical and Computer Engineering.
-- 🏅 Honored graduate from Hangzhou University of Electronic Science and Technology with a Bachelor of Science in Computer Science.
+- 🏅 Honored graduate from Hangzhou Dianzi University with a Bachelor of Science in Computer Science.
 - 🏆 Led a team in Live AI Hackathon(hosted by Harvard and Duke) and contributed to software tools like SSH file systems.
 - 💻 Passionate about software design, data processing, and AI.
   
