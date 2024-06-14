@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi there, I'm Feiyang Yu 👋
 
 ## About Me
