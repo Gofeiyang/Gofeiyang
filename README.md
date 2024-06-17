@@ -30,7 +30,7 @@ Assisted in teaching and developed course materials as a Teaching Assistant for 
 
 ## Blog
 
-I also write about my projects and experiences on [my blog](https://gofeiyang.github.io/blog).
+I also write about my projects and experiences on [my blog](https://gofeiyang.github.io/year-archive/).
 
 Thank you for visiting my profile! Feel free to reach out if you have any questions or collaboration ideas.
 
