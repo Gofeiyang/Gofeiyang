@@ -21,7 +21,7 @@ I'm a software engineer with a passion for developing innovative programs that e
 
 - **Email**: [feiyang.yu@duke.edu](mailto:feiyang.yu@duke.edu)
 - **LinkedIn**: [Feiyang Yu](https://www.linkedin.com/in/feiyang-frank-yu-0105b121a/)
-- **GitHub**: [Gofeiyang](https://github.com/Gofeiyang)
+- **Website**: [Gofeiyang](https://Gofeiyang.github.com)
 
 ## Teaching
 
